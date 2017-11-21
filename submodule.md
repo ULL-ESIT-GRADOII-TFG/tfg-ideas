@@ -11,3 +11,5 @@ crear un repo que contiene como submódulos todos los repos de entrega de los al
 3. Hace un `git push` al super-repo usando `git submodule foreach script`
   1. El script hace add y commit y un push masivo
 
+Esto se haría extensivo al proceso de clonación
+
