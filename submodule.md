@@ -13,3 +13,8 @@ crear un repo que contiene como submódulos todos los repos de entrega de los al
 
 Esto se haría extensivo al proceso de clonación
 
+
+#### Initial Step
+
+Crear scripts en la command line para esto y publicarlos en npm
+
