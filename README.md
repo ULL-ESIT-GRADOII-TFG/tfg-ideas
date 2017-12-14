@@ -5,7 +5,7 @@
 
 Any time I have an idea for a TFG I added it here.
 Your ideas are welcome.
-Make me a pull request to this repo
+If you have an idea for a TFG, make me a pull request to this repo
 [ULL-ESIT-GRADOII-TFG/tfg-ideas](https://github.com/ULL-ESIT-GRADOII-TFG/tfg-ideas)
 
 ## Skeleton to build a GitBook and Deploy it to GitHub Pages
