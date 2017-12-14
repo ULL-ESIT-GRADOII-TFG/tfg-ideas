@@ -3,6 +3,11 @@
 * [See this book in GitHub Pages](https://ull-esit-gradoii-tfg.github.io/tfg-ideas/)
 * [ULL TFG organization containing TFGs whose adivisor is Casiano](https://github.com/ULL-ESIT-GRADOII-TFG)
 
+Any time I have an idea for a TFG I added it here.
+Your ideas are welcome.
+Make me a pull request to this repo
+[ULL-ESIT-GRADOII-TFG/tfg-ideas](https://github.com/ULL-ESIT-GRADOII-TFG/tfg-ideas)
+
 ## Skeleton to build a GitBook and Deploy it to GitHub Pages
 
 Skeleton to build a book with gitbook and deploy it to GitHub pages
