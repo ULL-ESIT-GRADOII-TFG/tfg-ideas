@@ -8,3 +8,4 @@
 * [Idea: One Project board per student](one-project-board-per-student.md)
 * [Idea: Structure your subjects repos and directories according the structure of the chapters](subject-file-hierarchy.md)
 * [GitHub + Travis = cloud development](cloud-development.md)
+* [From Recipe to Ingredients](recipe-ingredients.md)
