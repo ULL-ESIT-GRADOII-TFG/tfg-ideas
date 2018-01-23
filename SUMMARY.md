@@ -9,3 +9,4 @@
 * [Idea: Structure your subjects repos and directories according the structure of the chapters](subject-file-hierarchy.md)
 * [GitHub + Travis = cloud development](cloud-development.md)
 * [From Recipe to Ingredients](recipe-ingredients.md)
+* [GitHub Education tasks for each subject](github-education.md)
