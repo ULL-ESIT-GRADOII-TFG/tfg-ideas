@@ -8,3 +8,7 @@ subject
   |   |    |- src (programs, repo submodules, students repos?)
   |   |    |- doc (md, ascii-doc?)
 ```
+
+* ¿Cómo puedo dar soporte software a esta metodología?
+    - Un problema que enfrento es la consistencia entre lo publicado en el moodle y lo que figura en el repo
+    - al no tener moodle una api la cosa se complica
