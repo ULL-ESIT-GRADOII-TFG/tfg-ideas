@@ -11,3 +11,4 @@
 
 * ¿Que pasa con el hecho de que GitHub Classroom ahora añade a los alumnos como contributors y no como miembros de la organización? 
 * ¿Habrá que añadirle a ghedsh un comando `contributors` para encontrar los alumnos?
+* ¿Automatizar el paso de contributor a members?
