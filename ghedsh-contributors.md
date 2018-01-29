@@ -13,3 +13,4 @@
   - Véase el issue [[Feature request] Add students as organization member after accepting first assignment #1078](https://github.com/education/classroom/issues/1078)
 * ¿Habrá que añadirle a ghedsh un comando `contributors` para encontrar los alumnos?
 * ¿Automatizar el paso de contributor a members?
+* [Adding outside collaborators to repositories in your organization](https://help.github.com/articles/adding-outside-collaborators-to-repositories-in-your-organization/)
