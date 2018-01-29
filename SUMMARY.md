@@ -10,3 +10,4 @@
 * [GitHub + Travis = cloud development](cloud-development.md)
 * [From Recipe to Ingredients](recipe-ingredients.md)
 * [GitHub Education tasks for each subject](github-education.md)
+* [Classroom: now students are contributors](ghedsh-contributors.md)
