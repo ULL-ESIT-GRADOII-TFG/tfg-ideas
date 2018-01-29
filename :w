@@ -1,5 +1,4 @@
 #### Metodología para crear una relacion ghedsh o extender información ghedsh desde Moodle
-
 * Exporto el calificador desde Moodle a CSV, los campos que me interesan
 * Uso [TableTool](https://github.com/jakob/TableTool) un editor de CSV par mac os muy útil
 * Con el editor [TableTool](https://github.com/jakob/TableTool) elimino columnas, etc.
