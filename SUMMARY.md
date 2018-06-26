@@ -13,7 +13,13 @@
 * [From Recipe to Ingredients](recipe-ingredients.md)
 * [GitHub Education tasks for each subject](github-education.md)
 * [Classroom: now students are contributors](ghedsh-contributors.md)
+* [Evaluation Scripts](evaluation-scrips.md)
 
 #### PL
 
 * [Esprima primeras clases](pl-esprima.md)
+
+
+#### DSI
+
+*  [Ideas para DSI](dsi-ideas.md)
