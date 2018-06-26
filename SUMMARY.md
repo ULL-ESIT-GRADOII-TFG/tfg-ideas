@@ -17,7 +17,7 @@
 
 #### PL
 
-* [Esprima primeras clases](pl-esprima.md)
+* [Ideas para PL](pl-ideas.md)
 
 
 #### DSI
