@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>mas instrucciones: Markdown y GitBook · GitBook</title>
+        <title>Herramientas de Otros para Evaluar · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -58,7 +58,7 @@
 
     
     
-    <link rel="prev" href="./" />
+    <link rel="prev" href="foreach.html" />
     
 
     </head>
@@ -146,7 +146,7 @@
         
         
     
-        <li class="chapter " data-level="2.1" data-path="otros.html">
+        <li class="chapter active" data-level="2.1" data-path="otros.html">
             
                 <a href="otros.html">
             
@@ -338,7 +338,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="9.2" data-path="gitbook.html">
+        <li class="chapter " data-level="9.2" data-path="gitbook.html">
             
                 <a href="gitbook.html">
             
@@ -381,7 +381,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >mas instrucciones: Markdown y GitBook</a>
+        <a href="." >Herramientas de Otros para Evaluar</a>
     </h1>
 </div>
 
@@ -397,41 +397,14 @@
                                 <section class="normal markdown-section">
                                 
                                 <ul>
-<li><a href="https://casianorodriguezleon.gitbooks.io/elaboracion-de-material-docente-con-gitbook/content/" target="_blank">Apuntes de Markdown y GitBook</a> En Gitbook</li>
-<li><a href="https://ull-pfpdi-gitbook-1617.github.io/Elaboracion-de-Material-Docente-con-GitBook/" target="_blank">Apuntes de Markdown y GitBook</a> En GitHub</li>
+<li><a href="https://education.github.community/t/proposed-new-tool-for-teaching-assessing-git-skills/31458" target="_blank">GH Education: Proposed new tool for teaching/assessing git skills</a></li>
+<li>Using GitHub, Travis CI, and Python to Introduce Collaborative Software Development - PyCon 2018<ul>
+<li><a href="https://github.com/gradle/" target="_blank">Gradle</a></li>
+<li><a href="https://youtu.be/cxTXJ3N91s0" target="_blank">Video</a></li>
+<li><a href="https://www.gregorykapfhammer.com/download/research/presentations/key/Kapfhammer2018-presentation.pdf" target="_blank">Slides</a></li>
 </ul>
-<h3 id="notas">Notas</h3>
-<p>Cuando se despliega un libro gitbook en las GitHub Pages
-yo suelo hacerlo as&#xED;:</p>
-<ol>
-<li>Crear un fichero <code>.nojekyll</code> para inhibir el uso de <code>jekyll</code><pre><code class="lang-bash">~/GitBook/Library/Import/curso-gihub(master)]$ ls <span class="hljs-_">-l</span> .nojekyll 
--rw-r--r--  1 casiano  staff  0 17 nov 15:02 .nojekyll
-</code></pre>
 </li>
-<li>A&#xF1;adir el directorio/carpeta con los HTML generados  <code>_book/</code>  al repo<pre><code class="lang-bash">[~/GitBook/Library/Import/curso-gihub(master)]$ git add _book
-</code></pre>
-</li>
-<li>Configurar el repo remoto en GitHub para que las p&#xE1;ginas se sirvan desde la rama <code>master</code> (settings del repo, seccion gh-pages)
-<img src="resources/settingghpages.png" alt=""></li>
-<li>Poner en la ra&#xED;z del repo un fichero <code>index.html</code> que redirige a <code>_book/index.html</code> como este:<pre><code class="lang-html"> <span class="hljs-meta">&lt;!DOCTYPE HTML&gt;</span>
- <span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">&quot;en-US&quot;</span>&gt;</span>
-         <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">&quot;UTF-8&quot;</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">http-equiv</span>=<span class="hljs-string">&quot;refresh&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;1; url=_book/&quot;</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/javascript&quot;</span>&gt;</span><span class="javascript">
-                         <span class="hljs-built_in">window</span>.location.href = <span class="hljs-string">&quot;_book/&quot;</span>
-                 </span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>Page Redirection<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span>
-         <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
-         <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-                 <span class="hljs-comment">&lt;!-- <span class="hljs-doctag">Note:</span> don&apos;t tell people to `click` the link, just tell them that it is a link. --&gt;</span>
-                 If you are not redirected automatically, follow this <span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&apos;_book/&apos;</span>&gt;</span>link to the book<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>.
-         <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
- <span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
-</code></pre>
-</li>
-<li>Aseg&#xFA;rese que el directorio <code>_book</code>no es ignorado en <code>.gitignore</code> </li>
-</ol>
+</ul>
 
                                 
                                 </section>
@@ -459,7 +432,7 @@ yo suelo hacerlo as&#xED;:</p>
 
             
                 
-                <a href="./" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Instrucciones para este libro">
+                <a href="foreach.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Idea: restringir foreach con regexp">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
@@ -471,7 +444,7 @@ yo suelo hacerlo as&#xED;:</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"mas instrucciones: Markdown y GitBook","level":"9.2","depth":1,"previous":{"title":"Instrucciones para este libro","level":"9.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"gitbook.md","mtime":"2017-11-21T13:00:45.163Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-07-06T16:22:06.798Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Herramientas de Otros para Evaluar","level":"2.1","depth":1,"next":{"title":"Losneni: clon de github classroom","level":"3.1","depth":1,"url":"https://github.com/ULL-ESIT-GRADOII-TFG/classroom/projects/1","ref":"https://github.com/ULL-ESIT-GRADOII-TFG/classroom/projects/1","articles":[]},"previous":{"title":"Idea: restringir foreach con regexp","level":"1.4","depth":1,"path":"foreach.md","ref":"foreach.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"otros.md","mtime":"2018-07-06T16:21:27.141Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-07-06T16:22:06.798Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
