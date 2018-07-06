@@ -5,5 +5,5 @@
 * [Order a swag bag](https://education.github.community/t/shopping-bags-get-a-github-swag-bag-for-your-classroom/33?utm_source=newsletter&utm_medium=email&utm_campaign=teacher-newsletter-12218)
 * [Free repos](https://education.github.com/discount_requests/new)
 
-* For each course: get the swag bag, the repos and make eaxh student to become a campus expert
+* For each course: get the swag bag, the repos and make each student to become a campus expert
 * Bonus lab: They follow the GitHub courses and can switch their lowest mark for the one in the bonus lab
