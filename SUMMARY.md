@@ -2,14 +2,14 @@
 
 ## Ideas para la evaluación
 
-## Submódulos para la Evaluación
+### Submódulos para la Evaluación
 
 * [Idea: Evaluation Scripts](evaluation-scrips.md)
 * [Idea: submodule](submodule.md)
 * [Idea: gitbook desplegable](desplegable-gitbook.md)
 * [Idea: restringir foreach con regexp](foreach.md)
 
-## Herramientas de Otros para Evaluar
+### Herramientas de Otros para Evaluar
 
 * [Herramientas de Otros para Evaluar](otros.md)
 
@@ -17,7 +17,7 @@
 
 * [Losneni: clon de github classroom](https://github.com/ULL-ESIT-GRADOII-TFG/classroom/projects/1)
 
-## Todas las Asignaturas
+## Ideas para Todas las Asignaturas
 
 * [Idea: One Project board per student](one-project-board-per-student.md)
 * [Idea: Structure your subjects repos and directories according the structure of the chapters](subject-file-hierarchy.md)
