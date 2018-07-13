@@ -4,7 +4,7 @@
 
 ### Submódulos para la Evaluación
 
-* [Idea: Evaluation Scripts](evaluation-scrips.md)
+* [Idea: Evaluation Scripts](evaluation-scripts.md)
 * [Idea: submodule](submodule.md)
 * [Idea: gitbook desplegable](desplegable-gitbook.md)
 * [Idea: restringir foreach con regexp](foreach.md)
