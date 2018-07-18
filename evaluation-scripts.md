@@ -1,4 +1,4 @@
-Siguiendo la metodologías de los submódulos y el `git submodule foraeach `
+Siguiendo la metodologías de los submódulos y el `git submodule foreach `
 escribir familia de scripts para asistir en las tareas de evaluación
 
 ### Grade-node

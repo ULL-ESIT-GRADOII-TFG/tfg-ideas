@@ -1,7 +1,7 @@
 
 * [http://submitty.org/](http://submitty.org/)
     - [https://github.com/Submitty/Submitty](https://github.com/Submitty/Submitty)
-
+    - [https://github.com/Submitty/Lichen](https://github.com/Submitty/Lichen) plagiarism 
 * [GH Education: Proposed new tool for teaching/assessing git skills](https://education.github.community/t/proposed-new-tool-for-teaching-assessing-git-skills/31458) (Solo git skills)
 
 * Using GitHub, Travis CI, and Python to Introduce Collaborative Software Development - PyCon 2018
