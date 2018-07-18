@@ -13,6 +13,10 @@
 
 * [Herramientas de Otros para Evaluar](otros.md)
 
+### Plagiarism/Cheating/Copias
+
+* [Idea: Plagiarism](plagiarism.md)
+
 ## GH Classroom
 
 * [Losneni: clon de github classroom](https://github.com/ULL-ESIT-GRADOII-TFG/classroom/projects/1)
@@ -23,6 +27,7 @@
 * [Idea: Structure your subjects repos and directories according the structure of the chapters](subject-file-hierarchy.md)
 * [Idea: Práctica Bono: GitHub Education tasks for each subject](github-education.md)
 * [Idea: Como desarrollar con solo un navegador usando GitHub + Travis](cloud-development.md)
+
 
 ## TOMAS Project
 
