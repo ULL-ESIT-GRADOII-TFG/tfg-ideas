@@ -6,7 +6,6 @@
 
 * [Idea: Evaluation Scripts](evaluation-scripts.md)
 * [Idea: submodule](submodule.md)
-* [Idea: restringir foreach con regexp](foreach.md)
 
 ### Herramientas de Otros para Evaluar
 
