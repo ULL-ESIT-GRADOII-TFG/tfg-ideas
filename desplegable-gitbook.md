@@ -5,7 +5,7 @@ Partiendo del repo [https://github.com/etsiiull/gitbook-skeleton](https://github
                             yagbi  mi-libro  
 
 
-que a partir del markdown cree la estructura de un libro desplegable en github pages y heroku
+que a partir del markdown cree la estructura de un libro desplegable en github pages, iaas y heroku
 (otra aproximación)
 
 - Estilo memoria de TFG (Estilos ULL)
