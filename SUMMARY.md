@@ -6,7 +6,6 @@
 
 * [Idea: Evaluation Scripts](evaluation-scripts.md)
 * [Idea: submodule](submodule.md)
-* [Idea: gitbook desplegable](desplegable-gitbook.md)
 * [Idea: restringir foreach con regexp](foreach.md)
 
 ### Herramientas de Otros para Evaluar
@@ -20,6 +19,11 @@
 ## GH Classroom
 
 * [Losneni: clon de github classroom](https://github.com/ULL-ESIT-GRADOII-TFG/classroom/projects/1)
+
+
+## Markdown
+
+* [Idea: gitbook desplegable](desplegable-gitbook.md)
 
 ## Ideas para Todas las Asignaturas
 
@@ -49,5 +53,5 @@
 ## Sobre como gestionar este libro
 
 * [Instrucciones para este libro](README.md)
-* [mas instrucciones: Markdown y GitBook](gitbook.md)
+* [Mas instrucciones: Markdown y GitBook](gitbook.md)
 
