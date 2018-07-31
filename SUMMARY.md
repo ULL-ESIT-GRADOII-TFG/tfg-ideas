@@ -2,7 +2,7 @@
 
 ## Ideas para la evaluación
 
-*[Proyecto de Innovación *Metodologías de Evaluación para Asignaturas de Programación que usan GitHub Education*, para la Convocatoria 2018/19](https://github.com/ULL-LSI/proyectos-de-innovacion-2018-2019)
+*[Proyecto de Innovación 18/19](https://github.com/ULL-LSI/proyectos-de-innovacion-2018-2019)
 
 ### Submódulos para la Evaluación
 
