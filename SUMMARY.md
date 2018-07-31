@@ -2,7 +2,7 @@
 
 ## Ideas para la evaluación
 
-*[Proyecto de Innovación 18/19](https://github.com/ULL-LSI/proyectos-de-innovacion-2018-2019)
+* [Proyecto de Innovación 18/19](https://github.com/ULL-LSI/proyectos-de-innovacion-2018-2019)
 
 ### Submódulos para la Evaluación
 
