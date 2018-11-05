@@ -8,6 +8,7 @@
 
 * [Idea: Evaluation Scripts](evaluation-scripts.md)
 * [Idea: submodule](submodule.md)
+* [Idea: Atom plugin](atom-plugin.md)
 
 ### Herramientas de Otros para Evaluar
 
@@ -55,4 +56,3 @@
 
 * [Instrucciones para este libro](README.md)
 * [Mas instrucciones: Markdown y GitBook](gitbook.md)
-
