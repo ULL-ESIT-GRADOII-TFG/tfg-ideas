@@ -37,7 +37,7 @@
 
 ## TOMAS Project
 
-* [From Recipe to Ingredients](recipe-ingredients.md)
+* [Tomas projects](tomas.md)
 
 ## Bugs en GH Classroom
 
