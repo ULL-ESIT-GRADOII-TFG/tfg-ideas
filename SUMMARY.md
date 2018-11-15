@@ -47,6 +47,11 @@
 
 * [Classroom: now students are contributors](ghedsh-contributors.md)
 
+## TFGs Dirigidos
+
+* [Berkan](berkan.md)
+* [Samuel](samuel.md)
+
 ## PL
 
 * [Ideas para PL](pl-ideas.md)
