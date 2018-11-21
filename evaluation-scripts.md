@@ -18,8 +18,7 @@ escribir familia de scripts para asistir en las tareas de evaluación
 
 ### Véase También
 
-* [How can I automate the grading of programming assignments?](https://cseducators.stackexchange.com/questions/1205/how-can-i-automate-the-grading-of-programming-assignments) en /cseducators.stackexchange.com
-
+* [How can I automate the grading of programming assignments?](https://cseducators.stackexchange.com/questions/1205/how-can-i-automate-the-grading-of-programming-assignments) en [https://cseducators.stackexchange.com](https://cseducators.stackexchange.com)
 * [What tools do you use for automated grading of assignments that involve programming?](https://www.researchgate.net/post/What_tools_do_you_use_for_automated_grading_of_assignments_that_involve_programming) en https://www.researchgate.net
 * [GitHub README Analyzer
 An experiment to algorithmically improve your GitHub README](https://demos.algorithmia.com/github-readme-analyzer/)
