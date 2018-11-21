@@ -23,3 +23,5 @@ escribir familia de scripts para asistir en las tareas de evaluación
 * [What tools do you use for automated grading of assignments that involve programming?](https://www.researchgate.net/post/What_tools_do_you_use_for_automated_grading_of_assignments_that_involve_programming) en https://www.researchgate.net
 * [GitHub README Analyzer
 An experiment to algorithmically improve your GitHub README](https://demos.algorithmia.com/github-readme-analyzer/)
+*  [codio](https://codio.com/features/infrastructure/)
+    - [Grading with Codio](https://vimeo.com/214168086)
