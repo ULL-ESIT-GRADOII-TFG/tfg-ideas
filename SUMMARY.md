@@ -45,7 +45,9 @@
 
 ## Bugs en GH Classroom
 
-* [Classroom: now students are contributors](ghedsh-contributors.md)
+oooo
+
+ [Classroom: now students are contributors](ghedsh-contributors.md)
 
 ## TFGs Dirigidos
 

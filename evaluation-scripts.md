@@ -16,3 +16,6 @@ escribir familia de scripts para asistir en las tareas de evaluación
     - Se usa la  API de Travis, CircleCI, etc. para obtener los resultados ?
     - Se generan las incidencias para los alus
 
+### Véase También
+
+* [How can I automate the grading of programming assignments?](https://cseducators.stackexchange.com/questions/1205/how-can-i-automate-the-grading-of-programming-assignments) en /cseducators.stackexchange.com
