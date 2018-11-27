@@ -5,6 +5,44 @@ Write a plugin for the Atom editor using Electron.
 * The plugin will give support similar to the GitHub plugin but oriented to organizations and teachers.
 * It will be similar to Berkan's tool and to classroom assistant
 
+Yo empezaría haciendo el tutorial
+
+* https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+
+
+Aquí hay otro tutorial:
+
+* https://blog.eleven-labs.com/en/create-atom-package/
+
+
+Aquí hay otro:
+
+* https://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
+
+En este vídeo explico como se usa Git y GitHub desde Atom:
+
+*                      https://youtu.be/kFtGxyyLRTc
+
+esto te da una idea de como deberían ser las funcionalidades del plugin que se haga en el  TFG. La charla se corresponde con el tutorial: 
+
+* https://flight-manual.atom.io/using-atom/sections/github-package/
+
+
+Los fuentes del paquete github para atom parecen estar aquí:
+
+* https://github.com/atom/github
+
+Los fuentes de open-on-github:
+
+* https://github.com/atom/open-on-github
+
+
+Creo que deberíamos empezar con un objetivo modesto, como simplemente mostrar en una ventana la lista de las organizaciones GitHub del usuario.
+
+List of Atom plugins for GitHub functionalities:
+
+* https://atom.io/packages/search?utf8=%E2%9C%93&q=github&commit=Search
+
 ## Plugin for TOC
 
 Update the plugin [markdown-toc](https://github.com/nok/markdown-toc)
