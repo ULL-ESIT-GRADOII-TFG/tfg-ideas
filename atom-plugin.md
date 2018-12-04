@@ -23,7 +23,7 @@ En este vídeo explico como se usa Git y GitHub desde Atom:
 
 *                      https://youtu.be/kFtGxyyLRTc
 
-esto te da una idea de como deberían ser las funcionalidades del plugin que se haga en el  TFG. La charla se corresponde con el tutorial: 
+esto te da una idea de como deberían ser las funcionalidades del plugin que se haga en el  TFG. La charla se corresponde con el tutorial:
 
 * https://flight-manual.atom.io/using-atom/sections/github-package/
 
@@ -42,6 +42,30 @@ Creo que deberíamos empezar con un objetivo modesto, como simplemente mostrar e
 List of Atom plugins for GitHub functionalities:
 
 * https://atom.io/packages/search?utf8=%E2%9C%93&q=github&commit=Search
+
+## Plugin Find Project from GitHub
+
+It will find the local path to a given github repo, for instance
+
+ULL-ESIT-TFG/ghedsh
+
+and will offer to the user to open the project.
+
+It has an associated JSON file with the known relations:
+
+{
+  "ULL-ESIT-TFG/ghedsh" : {
+    "machine": "Darwin sanclemente-2.local",
+    "path": "/Users/casiano/local/src/githubclassroom/clementeTFG/teachers_pet-terminal",
+    "user": "casiano"
+  },
+  ...
+}
+
+Has commands as:
+
+1. Save relation between repo and path
+2. Open local repo ULL-ESIT-TFG/ghedsh
 
 ## Plugin for TOC
 
@@ -63,4 +87,3 @@ It will create a navigation window to quickly go to
 * Tareas
 
 Posiblemente parsear ficheros HTML ya que no se dispone de servicio web
-
