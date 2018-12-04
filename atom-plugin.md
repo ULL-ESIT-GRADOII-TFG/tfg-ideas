@@ -47,12 +47,15 @@ List of Atom plugins for GitHub functionalities:
 
 It will find the local path to a given github repo, for instance
 
+```
 ULL-ESIT-TFG/ghedsh
+```
 
 and will offer to the user to open the project.
 
 It has an associated JSON file with the known relations:
 
+```json
 {
   "ULL-ESIT-TFG/ghedsh" : {
     "machine": "Darwin sanclemente-2.local",
@@ -61,6 +64,8 @@ It has an associated JSON file with the known relations:
   },
   ...
 }
+```
+
 
 Has commands as:
 
