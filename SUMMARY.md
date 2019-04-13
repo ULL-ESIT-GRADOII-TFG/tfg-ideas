@@ -2,6 +2,8 @@
 
 ### Temas a Elegir
 
+[Temas 2019](temas2019.md)
+
 [Temas 2018](temas2018.md)
 
 ## Ideas para la evaluación
@@ -13,6 +15,8 @@
 * [Idea: Evaluation Scripts](evaluation-scripts.md)
 * [Idea: submodule](submodule.md)
 * [Idea: Atom plugin](atom-plugin.md)
+* Idea. Visual Studio Code Plugin
+* Idea. NeoVim Plugin
 
 ### Herramientas de Otros para Evaluar
 

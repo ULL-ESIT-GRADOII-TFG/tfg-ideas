@@ -72,6 +72,11 @@ Has commands as:
 1. Save relation between repo and path
 2. Open local repo ULL-ESIT-TFG/ghedsh
 
+**Related Plugins:
+
+* [recent-projects](https://atom.io/packages/recent-projects)
+
+
 ## Plugin for TOC
 
 Update the plugin [markdown-toc](https://github.com/nok/markdown-toc)
